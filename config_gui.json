@@ -1,0 +1,9 @@
+{
+    "FFMPEG": "C:\\Program Files\\Jellyfin\\Server\\ffmpeg.exe",
+    "FFPROBE": "C:\\Program Files\\Jellyfin\\Server\\ffprobe.exe",
+    "CONVERT_AUDIO": "true",
+    "AUDIO_BITRATE": "256",
+	"AUDIO_CODEC":   "eac3",
+    "CONVERT_VIDEO": "true",
+    "VIDEO_QUALITY": "32"
+}
