@@ -1,3 +1,4 @@
+Add-Type -AssemblyName System.Windows.Forms
 # Reading the configuration file in JSON format
 $config = Get-Content .\config_gui.json | ConvertFrom-Json
 $files = $null
