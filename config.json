@@ -1,0 +1,10 @@
+{
+    "FFMPEG": "C:\\Users\\dawidgaming\\Downloads\\convert\\ffmpeg.exe",
+    "FFPROBE": "C:\\Users\\dawidgaming\\Downloads\\convert\\ffprobe.exe",
+    "CONVERT_AUDIO": "true",
+    "AUDIO_BITRATE": "256k",
+	"AUDIO_CODEC":   "aac",
+    "CONVERT_VIDEO": "true",
+    "VIDEO_QUALITY": "32",
+	"PARALLEL_TRANSCODES": "2"
+}
