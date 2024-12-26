@@ -5,7 +5,7 @@ Write-Host "Configuration loaded. FFMPEG path: $($config.FFMPEG)"
 Write-Host "FFPROBE path: $($config.FFPROBE)"
 Write-Host "Audio Conversion: $($config.CONVERT_AUDIO), Bitrate: $($config.AUDIO_BITRATE), Codec: $($config.AUDIO_CODEC)"
 Write-Host "Video Conversion: $($config.CONVERT_VIDEO), Quality: $($config.VIDEO_QUALITY)"
-Write-Host "Parallel Transcodes: $($config.PARALLEL_TRANSCODES)"
+#Write-Host "Parallel Transcodes: $($config.PARALLEL_TRANSCODES)"
 
 # Validation of FFMPEG and FFPROBE paths
 if (-not (Test-Path $config.FFMPEG)) {
