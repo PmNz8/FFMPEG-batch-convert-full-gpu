@@ -6,5 +6,6 @@
 	"AUDIO_CODEC":   "aac",
     "CONVERT_VIDEO": "true",
     "VIDEO_QUALITY": "32",
+    "VIDEO_PRESET": "p7",
 	"PARALLEL_TRANSCODES": "2"
 }
